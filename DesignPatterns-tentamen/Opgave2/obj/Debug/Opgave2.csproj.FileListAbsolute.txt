@@ -1,0 +1,7 @@
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\Opgave2.csprojResolveAssemblyReference.cache
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\Opgave2.csproj.CoreCompileInputs.cache
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\Opgave2.exe.config
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\Opgave2.exe
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\bin\Debug\Opgave2.pdb
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\Opgave2.exe
+c:\users\jobve\source\repos\DesignPatterns-tentamen\Opgave2\obj\Debug\Opgave2.pdb
